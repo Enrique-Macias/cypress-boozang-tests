@@ -1,0 +1,15 @@
+{
+    "user1": {
+      "firstName": "Ana",
+      "lastName": "Pérez",
+      "email": "ana@test.com",
+      "password": "pass123"
+    },
+    "user2": {
+      "firstName": "Luis",
+      "lastName": "Gómez",
+      "email": "luis@test.com",
+      "password": "pass456"
+    }
+  }
+  
