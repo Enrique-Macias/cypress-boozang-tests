@@ -36,13 +36,6 @@ Este repositorio contiene los tests E2E con Cypress para la página [theLab](htt
    # o
    yarn install
    ```
-
-3. Verifica que tengas un fixture vacío para `sortedList` en `cypress/fixtures/empty-todos.json`:
-
-   ```json
-   []
-   ```
-
 ---
 
 ## 🧪 Ejecución de los tests
