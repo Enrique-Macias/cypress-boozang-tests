@@ -25,7 +25,7 @@ Este repositorio contiene los tests E2E con Cypress para la página [theLab](htt
 1. Clona este repositorio:
 
    ```bash
-   git clone <[TU_REPOSITORIO_URL](https://github.com/Enrique-Macias/cypress-boozang-tests)>
+   git clone https://github.com/Enrique-Macias/cypress-boozang-tests
    cd cypress-boozang-tests
    ```
 
